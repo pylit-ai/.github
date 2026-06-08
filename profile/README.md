@@ -14,6 +14,23 @@ We build in the open, test in real workflows, and keep what compounds.
 
 https://pylit.ai/
 
+## Systems for Discovery
+
+- Research memory systems
+- Agent coordination systems
+- Evaluation and experiment loops
+- Scientific discovery workflows
+- Reusable reasoning infrastructure
+- Human-AI collaboration tools
+
+## Platforms
+
+- [OpenDream](https://pylit.ai/opendream/) — persistent memory for research systems: traces, reviews, and graph-backed context that survive across sessions.
+- [Model Preflight](https://github.com/pylit-ai/model-preflight) — evidence gates for models before deployment: probes, capability checks, and go/hold reports for serious workflows.
+- [MetaCTL](https://github.com/pylit-ai/metactl) — control plane for reusable agent behavior: skills, rules, workflows, packs, and audits that turn lessons into machinery.
+
 ## North star
 
 AI should expand the frontier of what humans can discover and compress not only knowledge, but time.
+
+
