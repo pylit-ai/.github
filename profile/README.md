@@ -27,7 +27,7 @@ https://pylit.ai/
 
 - [OpenDream](https://pylit.ai/opendream/) — persistent memory for research systems: traces, reviews, and graph-backed context that survive across sessions.
 - [Model Preflight](https://github.com/pylit-ai/model-preflight) — evidence gates for models before deployment: probes, capability checks, and go/hold reports for serious workflows.
-- [MetaCTL](https://github.com/pylit-ai/metactl) — control plane for reusable agent behavior: skills, rules, workflows, packs, and audits that turn lessons into machinery.
+- [metactl](https://github.com/pylit-ai/metactl) — control plane for reusable agent behavior: skills, rules, workflows, packs, and audits that turn lessons into machinery.
 
 ## North star
 
