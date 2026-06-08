@@ -1,4 +1,4 @@
-# PYLIT
+# [PYLIT](https://pylit.ai/)
 
 ## Accelerating scientific discovery with self-improving AI.
 
